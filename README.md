@@ -5,8 +5,9 @@ The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/datase
 
 #### Questions:
 1.  What are the largest expenditures by Fund, Cost Center, and Account?
-2.  How does the mean dollar value of payments differ betwwen Fund, Cost Center, and Account?
-3.  Do any payments look fraudulent?
-4.  Which expenditures track mostly strongly to specific times of the year?
+2.  Are there any accounts that look unusual/different than I would expect?
+3.  How does the mean dollar value of payments differ betwwen Fund, Cost Center, and Account?
+4.  Do any payments look fraudulent?
+5.  Which expenditures track mostly strongly to specific times of the year?
 
 *Contains information from the City of Scottsdale Open Database Portal, which is made available here under the [Open Database License](http://www.scottsdaleaz.gov/AssetFactory.aspx?did=69351).
