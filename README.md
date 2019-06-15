@@ -6,6 +6,16 @@ ___
 Which vendors are paid the most over the course of the year?
 
 ![](https://github.com/mrkjhsn/Vendor-Payments-City-of-Scottsdale/blob/master/visualizations/Payments%20by%20Vendor%20-%20top%2030.png)
+
+<br/>
+<br/>
+<br/>
+
+For the top 5 accounts by spending, how do payments track over the course of the year?
+
+![](https://github.com/mrkjhsn/Vendor-Payments-City-of-Scottsdale/blob/master/visualizations/Top%205%20Accounts%20-%20Payments%20by%20Day%20of%20Year.png)
+<br/>
+<br/>
 ___
 
 #### Questions:
