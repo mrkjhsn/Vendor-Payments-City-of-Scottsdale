@@ -11,5 +11,11 @@ ___
 3.  How does the mean dollar value of payments differ betwwen Fund, Cost Center, and Account?
 4.  Do any payments look fraudulent?
 5.  Which expenditures track mostly strongly to specific times of the year?
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 *Contains information from the City of Scottsdale Open Database Portal, which is made available here under the [Open Database License](http://www.scottsdaleaz.gov/AssetFactory.aspx?did=69351).
