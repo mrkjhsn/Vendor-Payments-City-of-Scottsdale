@@ -1,7 +1,7 @@
 ## Benford's Law Applied to Scottsdale Vendor Payments 
-___
-#### [Benford's Law](https://en.wikipedia.org/wiki/Benford's_law) states that in many naturally occurring collections of numbers, the leading significant digit is likely to be small. For example, in sets that obey the law, the number 1 appears as the leading significant digit about 30% of the time, while 9 appears as the leading significant digit less than 5% of the time. If the digits were distributed uniformly, they would each occur about 11.1% of the time.  The law has applications in determining if a set of transactions are fraudulent since a person forging transactions would likely ensure the numbers forged are random.
 
+#### [Benford's Law](https://en.wikipedia.org/wiki/Benford's_law) states that in many naturally occurring collections of numbers, the leading significant digit is likely to be small. For example, in sets that obey the law, the number 1 appears as the leading significant digit about 30% of the time, while 9 appears as the leading significant digit less than 5% of the time. If the digits were distributed uniformly, they would each occur about 11.1% of the time.  The law has applications in determining if a set of transactions are fraudulent since a person forging transactions would likely ensure the numbers forged are random.
+<br/>
 
 ### Am I able to identify oulier vendors in the Scottsdale vendor payments dataset?  Below is the process I worked through to answer this question:
   + ### strip the leading digit off the *PaymentAmount* column
@@ -12,6 +12,7 @@ ___
     + ### vendors with a 1 leading digit count that makes up less than 20% of total digits for that vendor
     + ### vendors with a 9 leading digit count that makes up greater than 10% of total digits for that vendor
 ___  
+<br/>
 
 ### Graph of all City of Scottsdale vendor payments leading digits against guidlines outlined by Benford's Law.
 
