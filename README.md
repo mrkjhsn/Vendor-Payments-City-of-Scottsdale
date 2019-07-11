@@ -2,7 +2,7 @@
 What can I understand about the City of Scottsdale by examining it's vendor payments?
 
 The City of Scottsdale publishes a [dataset](http://data.scottsdaleaz.gov/dataset/vendor-payments)* that includes vendor payments that took place within the previous year.
-___
+# ___
 
 
 #### Questions:
